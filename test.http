@@ -1,0 +1,9 @@
+
+# GET https://study.duyiedu.com/api/movies?size=4&page=3 HTTP/1.1
+POST https://study.duyiedu.com/api/user/login HTTP/1.1
+content-type: application/json
+
+{
+    "loginId":"liubo",
+    "loginPwd":"123456"
+}
